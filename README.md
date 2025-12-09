@@ -1,6 +1,6 @@
 # HT Task Manager - Frontend
 
-This repository contains the **frontend** for the HT Task Manager (HMTM) application.  
+This repository contains the **frontend** for the HM Task Manager (HMTM) application.  
 Follow the steps below to set up and run the frontend in your development environment.
 
 ---
